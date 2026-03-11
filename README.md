@@ -1,43 +1,52 @@
-<h1 align="center">👨‍💻 Johnatan Wilhan</h1>
+<h1 align="center">⚡ Johnatan Wilhan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Progress;Java+Developer;Frontend+Creator;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Progress;Java+Developer;Frontend+Creator;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/wGWFVvwJybDwTlnTSS/giphy.gif" width="500"/>
-</p>
-
----
-
-# 🚀 Sobre mim
-
-💻 Desenvolvedor em formação apaixonado por tecnologia  
-☕ Focado em **Backend com Java**  
-🌐 Criando interfaces **Front-End modernas**  
-📚 Evoluindo todos os dias em **lógica de programação e desenvolvimento**
-
-🎯 Objetivo: me tornar um **Backend Developer profissional**
-
----
-
-# 🧠 Tecnologias e Ferramentas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,linux"/>
-
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blueviolet&style=for-the-badge">
 </p>
 
 ---
 
-# 📊 Estatísticas do GitHub
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
+
+---
+
+# 👨‍💻 Sobre mim
+
+💻 Desenvolvedor em formação  
+
+☕ Estudando **Backend com Java**
+
+🌐 Criando projetos **Front-End**
+
+📚 Aprendendo programação todos os dias
+
+🎯 Objetivo: me tornar **Backend Developer**
+
+---
+
+# 🚀 Tecnologias
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,linux,vscode"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Estatísticas
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -53,39 +62,43 @@
 
 ---
 
-# 📌 Projetos em Desenvolvimento
+# 📌 Projetos
 
-🚀 **Java Logic Exercises**  
-Exercícios de lógica para fortalecer raciocínio em Java.
+🚀 **Java Logic Exercises**
 
-🚀 **Java Calculator**  
-Calculadora feita em Java para praticar estruturas condicionais.
+Exercícios para melhorar lógica de programação.
 
-🚀 **Frontend Projects**  
+🚀 **Java Calculator**
+
+Projeto simples para treinar estruturas condicionais.
+
+🚀 **Frontend Websites**
+
 Sites responsivos com HTML, CSS e JavaScript.
 
-🚀 **Java Backend Studies**  
-Estudos focados em backend e APIs.
+🚀 **Backend Java Studies**
+
+Projetos focados em backend.
 
 ---
 
-# 🧩 O que estou estudando atualmente
+# 📚 Atualmente estudando
 
-📚 Lógica de programação  
-📚 Estruturas condicionais  
-📚 Loops (for / while)  
-📚 Java Backend  
+✔ Lógica de programação  
+✔ Estruturas condicionais  
+✔ Loops (for / while)  
+✔ Backend com Java  
 
 ---
 
-# 🌎 Conecte-se comigo
+# 🌎 Contato
 
-📧 Email: seuemail@email.com
+📧 seuemail@email.com
 
 ---
 
 <p align="center">
 
-⭐ **“Disciplina em aprender hoje, sucesso como desenvolvedor amanhã.”**
+⭐ "Disciplina em aprender hoje, sucesso amanhã."
 
 </p>
