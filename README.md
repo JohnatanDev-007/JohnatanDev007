@@ -93,7 +93,7 @@ Projetos focados em backend.
 
 # 🌎 Contato
 
-📧 seuemail@email.com
+📧 johnatawilhan903@gmail.com
 
 ---
 
